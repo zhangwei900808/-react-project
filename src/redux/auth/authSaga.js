@@ -31,21 +31,21 @@ function* test() {
         icon: "file",
         id: 1,
         isShow: "1",
-        title: "画布一",
+        title: "页面一",
         url: "/"
       },
       {
         icon: "file",
         id: 2,
         isShow: "1",
-        title: "画布二",
+        title: "页面二",
         url: "/departmentManage"
       },
       {
         icon: "file",
         id: 3,
         isShow: "1",
-        title: "画布三",
+        title: "页面三",
         url: "/userManage"
       }
     ]
